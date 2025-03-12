@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "D:\\source\\repos\\Project_TestGit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBF52924-8FD8-46B3-B7F7-FCE6B5C17059}|Project_TestGit\\Project_TestGit.csproj|D:\\source\\repos\\Project_TestGit\\project_testgit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FBF52924-8FD8-46B3-B7F7-FCE6B5C17059}|Project_TestGit\\Project_TestGit.csproj|d:\\source\\repos\\project_testgit\\project_testgit\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBF52924-8FD8-46B3-B7F7-FCE6B5C17059}|Project_TestGit\\Project_TestGit.csproj|solutionrelative:project_testgit\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF52924-8FD8-46B3-B7F7-FCE6B5C17059}|Project_TestGit\\Project_TestGit.csproj|d:\\source\\repos\\project_testgit\\project_testgit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FBF52924-8FD8-46B3-B7F7-FCE6B5C17059}|Project_TestGit\\Project_TestGit.csproj|solutionrelative:project_testgit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -35,6 +39,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\source\\repos\\Project_TestGit\\Project_TestGit\\Form2.cs",
+              "RelativeDocumentMoniker": "Project_TestGit\\Form2.cs",
+              "ToolTip": "D:\\source\\repos\\Project_TestGit\\Project_TestGit\\Form2.cs [Design]",
+              "RelativeToolTip": "Project_TestGit\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:16:06.031Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\source\\repos\\Project_TestGit\\Project_TestGit\\Form1.cs",
               "RelativeDocumentMoniker": "Project_TestGit\\Form1.cs",
